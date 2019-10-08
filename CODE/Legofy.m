@@ -41,7 +41,7 @@ function dataOut = Legofy(dataIn,scaleOutput,displayResult)
 
 % parse the dataIn, it may be an image or a location
 
-if isa('dataIn','char') 
+if isa(dataIn,'char') 
     location = dataIn;
     dataIn = imread(dataIn);
 else
