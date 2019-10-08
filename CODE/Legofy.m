@@ -3,11 +3,11 @@ function dataOut = Legofy(dataIn,scaleOutput,displayResult)
 %--------------------------------------------------------------------------
 % Legofy converts an image into what it would look like if formed with the bricks of the
 % very very very famous Danish block company
-%
+% 
 %       INPUT
 %         dataIn:       A 2D or 3D (for RGB) matrix that corresponds to an image
 %         
-%
+% 
 %       OUTPUT
 %         dataOut:      A 2D or 3D (for RGB) matrix that corresponds to the same
 %                       image but with brick-texture
