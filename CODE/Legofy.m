@@ -50,7 +50,7 @@ end
 
 % First, pixelise, decide the size
 if ~exist('scaleOutput','var')
-    scaleOutput         = 0.1;
+    scaleOutput         = 0.02;
 end
 
 % First, pixelise, decide the size
