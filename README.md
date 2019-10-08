@@ -69,7 +69,7 @@ dataOut = Legofy('https://upload.wikimedia.org/wikipedia/commons/d/d5/Vincent_Va
 <h2> Video Guide </h2>
 
 
-<img src="Figures/LegofyC.gif"  /> 
+<img src="Figures/videoGuide.gif"  /> 
 
 
 
